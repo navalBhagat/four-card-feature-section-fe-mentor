@@ -182,19 +182,23 @@ img {
     header {
         padding: 1rem;
     }
+
+    text.card-title { 
+        font-size: 1.3rem;
+    }
 }
 
-@media (min-width:1500px) {
+@media (min-width:1400px) {
     main article:nth-child(1) {
         left: -5rem;
     }
 
     main article:nth-child(2) {
-        top: -1rem;
+        top: 0rem;
     }
 
     main article:nth-child(3) {
-        bottom: -1rem;
+        bottom: 0rem;
     }
 
     main article:nth-child(4) {
