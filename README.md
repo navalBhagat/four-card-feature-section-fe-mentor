@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/four-card-feature-section-fe-mentor)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://four-card-feature-section-fe-mentor.vercel.app/)
 
 ## Author
 
